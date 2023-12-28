@@ -16,7 +16,7 @@
 
 Entrar na pasta
 ```sh
-cd laravel/
+cd api-upload-laravel-solid-tdd/
 ```
 
 Remova qualquer tipo de arquivo referente a versionamento (opcional)
